@@ -6,6 +6,8 @@ Entre na pasta onde o `PCSX2` foi extraído e abra o executável `pcsx2-qtx64-av
 
 - Na barra de menus escolha a opção `Settings > Emulation`.
 
+> Se você está usando o patch de 60 fps, mude a opção EE Cycle Rate para 300%.
+
 Deixe as configurações da seguinte forma:
 
 ![emulation](../assets/emulation.png)
